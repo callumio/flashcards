@@ -39,6 +39,7 @@
     - Otsu Thresholding
     - Adaptive Thresholding
     - Morphology
+        - Connected Components
         - Dilation
         - Erosion
     
